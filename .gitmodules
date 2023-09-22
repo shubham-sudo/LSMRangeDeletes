@@ -1,0 +1,3 @@
+[submodule "LSMRangeDeletes"]
+	path = LSMRangeDeletes
+	url = https://github.com/Data-Brandeis/LSMRangeDeletes.git
